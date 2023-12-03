@@ -2778,6 +2778,29 @@
         "key": 9,
         "value": "Lainnya"
       }
+    ],
+    "issueCategory":
+    [
+      {
+        "key": 1,
+        "value": "Dugaan Pelanggaran Administrative"
+      },
+      {
+        "key": 2,
+        "value": "Dugaan Tidak Pidana Pemilu"
+      },
+      {
+        "key": 3,
+        "value": "Dugaan Kekerasan Pemilu"
+      },
+      {
+        "key": 4,
+        "value": "DPT"
+      },
+      {
+        "key": 5,
+        "value": "Dugaan Pelanggaran Lain-lain"
+      }
     ]
   }
 }
