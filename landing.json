@@ -1,0 +1,28 @@
+{
+	"supportPerson": [
+		{
+			"name": "Anton",
+			"ocupation": "Wirausahawan",
+			"notes": "Sebagai perwakilan anak muda, saya dan teman-teman organisasi ingin wujudkan Pemilu 2024 yang lebih canggih dan melek teknologi.",
+			"photo": "https://thor.tigor.web.id/_next/image?url=%2Fdummy%2Frelawan%2F3.png&w=64&q=75"
+		},
+		{
+			"name": "Susi",
+			"ocupation": "Wirausahawan",
+			"notes": "Sebagai perwakilan anak muda, saya dan teman-teman organisasi ingin wujudkan Pemilu 2024 yang lebih canggih dan melek teknologi.",
+			"photo": "https://thor.tigor.web.id/_next/image?url=%2Fdummy%2Ftestimoni%2F1.png&w=64&q=75"
+		},
+		{
+			"name": "Budi",
+			"ocupation": "Wirausahawan",
+			"notes": "Sebagai perwakilan anak muda, saya dan teman-teman organisasi ingin wujudkan Pemilu 2024 yang lebih canggih dan melek teknologi.",
+			"photo": "https://thor.tigor.web.id/_next/image?url=%2Fdummy%2Ftestimoni%2F2.png&w=64&q=75"
+		},
+		{
+			"name": "Yona",
+			"ocupation": "Wirausahawan",
+			"notes": "Sebagai perwakilan anak muda, saya dan teman-teman organisasi ingin wujudkan Pemilu 2024 yang lebih canggih dan melek teknologi.",
+			"photo": "https://thor.tigor.web.id/_next/image?url=%2Fdummy%2Ftestimoni%2F3.png&w=64&q=75"
+		}
+	]
+}
